@@ -11,5 +11,8 @@ wheels/
 
 *.qoi
 *.png
+*.dng
 
 .DS_Store
+
+*.pdf
