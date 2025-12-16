@@ -1,5 +1,3 @@
-https://www.signatureedits.com/free-raw-photos/
-
 # Setup
 
 > See .python-version for required Python version.
@@ -21,6 +19,12 @@ https://www.signatureedits.com/free-raw-photos/
    or uv
    uv sync
    ```
+
+# Test images
+
+![raw ./test.dng image](./test.dng) from https://www.signatureedits.com/free-raw-photos/
+
+![test png image](./fruits.png)
 
 # [QOI](https://qoiformat.org/qoi-specification.pdf) - Quite OK Image Format Overview
 
